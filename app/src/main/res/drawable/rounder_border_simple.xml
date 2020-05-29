@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- On va definr le raduius pour afficher le texte dans un fond gris -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#F0F0F0" />
+    <stroke android:width="0.05dp" />
+    <corners
+        android:radius="30dp" />
+</shape>
